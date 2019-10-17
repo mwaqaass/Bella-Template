@@ -1,0 +1,321 @@
+/*Header*/
+
+.header{
+    color: #A8A8A8;
+    margin-top: 50px;
+    font-family: sans-serif;
+}
+
+.header p{
+    font-size: 55px;
+}
+
+.bg-image{
+    background-image: url('../images/header-image.jpg'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+    min-height: 100%;
+}
+
+.image-text{
+    display: block;
+}
+
+.image-inner-text{
+    margin-top: 150px;
+    text-align: center;
+}
+
+.bella-text{
+    font-family: sans-serif;
+    font-size: 80px;
+}
+
+.bella-email{
+    color: #A8A8A8;
+    font-size: 80px;
+}
+
+.btn{
+    background-color: #dc5483;
+    color: white;
+    height: 100px;
+    width: 400px;
+    border-radius: 60px;
+    margin-bottom: 130px;
+    font-size: 30px;
+}
+
+.arrow{
+    margin-left: 10px;
+}
+
+/* Section 2 */
+
+.para1{
+    padding: 20px;
+    margin-left: 35px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 60px;
+}
+
+.para1 p{
+    margin-top: 30px;
+}
+
+.reload{
+    font-size: 60px;
+}
+
+.reload2{
+    font-size: 60px;
+}
+
+.reload3{
+    font-size: 60px;
+}
+
+
+.read-more{
+    color: black;
+}
+
+.read-more2{
+    color: black;
+}
+
+
+.read-more3{
+    color: black;
+}
+
+
+.para1-para{
+    font-size: 15px;
+}
+
+.tasks{
+    margin-bottom: 50px;
+}
+
+/* Section3 - People */
+
+.team-member{
+    background-color: #f5f5f5;
+}
+
+.row-person{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 150px 0;
+}
+
+.person{
+    padding: 0 100px;
+}
+
+.person-description{
+    text-align: center;
+    letter-spacing: 4px;
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.img-person{
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.person-designation{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.person-designation {
+    font-weight: bold;
+    margin-bottom: 150px;
+}
+
+.person-designation span{
+    color: darkgray;
+    margin-top: 3px;
+}
+
+/* Section4 - Brand */
+
+.row-brand{
+    text-align: center;
+    margin: 60px;
+}
+
+.brandname1{
+    margin-bottom: 70px;
+}
+
+/* Section4 - Crop */
+
+.crop{
+    background-color: #f5f5f5; 
+}
+
+.row-crop{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.crop-para-1 img{
+    height: 200px;
+    width: 200px;
+}
+
+.crop-para-1 p{
+    margin-top: 30px;
+}
+
+.crop-para-2 img{
+    height: 200px;
+    width: 200px;
+}
+
+.crop-para-2 p{
+    margin-top: 30px;
+}
+
+.post-date{
+    color: darkgray;
+}
+
+.dummy{
+    margin-bottom: 100px;
+}
+
+/* Section5 - Diff Paragraph */
+
+.row-diff-para{
+    padding: 0 20px;
+    margin-top: 100px;
+    margin-left: -20px;
+}
+
+.world-para{
+    margin-bottom: 100px;
+}
+
+.world-para a p{
+    margin-top: 20px;
+}
+
+.world-globe{
+    font-size: 60px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+/* Section6 - Crop Section 2 */
+
+.crop-article{
+    background-color: #f5f5f5;
+}
+
+.crop-sec2-1 img{
+    margin-top: 22px;
+    height: 300px;
+    width: 400px;
+    margin-left: 35px;
+    float: left;
+}
+
+.crop-sec2-para{
+    font-size: 20px;
+}
+
+.row-crop-sec2{
+    margin-top: 100px;
+}
+
+.row-crop-sec2-2{
+    margin-top: 120px;
+}
+
+.crop-sec2-para p{
+    float: left;
+}
+
+.dummy2{
+    margin-bottom: 100px;
+}
+
+/* Section7 - Description */
+
+.description{
+    margin-top: 100px;
+}
+
+.description p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.description-button{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.btn-desc{
+    background-color: #dc5483;
+    color: white;
+    height: 100px;
+    width: 400px;
+    margin-bottom: 100px;
+    font-size: 30px;
+}
+
+/* Section8 - Footer */
+
+.footer{
+    background-color: #00404b;
+}
+
+.footer-head-bella{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
+
+.navbar{
+    text-align:center;
+    margin-top: 50px;
+}
+
+.navbar a{
+    padding: 0 42px;   
+    color: #ddc9dd;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.copyright{
+    color: #ddc9dd;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.copyright p{
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.copyright span{
+    color: white;
+}
